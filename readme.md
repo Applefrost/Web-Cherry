@@ -7,8 +7,9 @@ A web based remote shell tool created with Node.
 # Setup
 
 ### Make sure you have Node and NPM
-for Linux-like systems go to https://nodejs.org/en/download/package-manager
-for others go to https://nodejs.org/en/download
+for Linux-like systems go to https://nodejs.org/en/download/package-manager.
+
+for others go to https://nodejs.org/en/download.
 
 ### Clone the repository
 `git clone https://github.com/Applefrost/Web-Cherry`
