@@ -1,6 +1,6 @@
 # Web Cherry
 
-A web based remote shell tool created with node.
+A web based remote shell tool created with Node.
 
 
 
