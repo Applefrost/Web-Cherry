@@ -14,15 +14,16 @@ for others go to https://nodejs.org/en/download
 `git clone https://github.com/Applefrost/Web-Cherry`
 
 ### Install the dependencies
-`cd path/to/Web Cherry
-npm install -g`
+`cd path/to/Web Cherry`
+
+`npm install -g`
 
 
 ### Start the server
 `node path/to/Web Cherry/server.js`
 
 ### Use the remote shell via your browser
-go to http://your ip address or hostname
+go to http://youripaddress
 
 
 
