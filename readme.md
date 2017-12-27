@@ -14,12 +14,9 @@ for others go to https://nodejs.org/en/download
 `git clone https://github.com/Applefrost/Web-Cherry`
 
 ### Install the dependencies
-`cd path/to/Web Cherry`
-`npm install -g`
-
-### Install the dependencies
 `cd path/to/Web Cherry
 npm install -g`
+
 
 ### Start the server
 `node path/to/Web Cherry/server.js`
