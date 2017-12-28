@@ -1,0 +1,36 @@
+body {
+	background: black;
+}
+
+body * {
+	display: block;
+	font: 14px monospace;
+	font-weight: bold;
+	margin: 0 auto;
+	position: relative;
+}
+
+container {
+	background: white;
+	border: solid 10px white;
+	border-radius: 30px; 
+	padding: 35px 30px;
+	top: 50px;
+	width: 70%;
+}
+
+output {
+	height: 400px;
+	max-height: 400px;
+	overflow-y: scroll;
+}
+
+input {
+	background: lightgray;
+	border: solid 5px lightgray;
+	border-radius: inherit;
+	outline: none;
+	padding: 10px 20px;
+	top: 20px;
+	width: 75%;
+}
